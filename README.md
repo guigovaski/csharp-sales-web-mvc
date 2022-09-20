@@ -2,7 +2,7 @@
 
 ## GIF do projeto
 
-![SalesWebMvc](./github/assets/board.gif)
+![SalesWebMvc](.github/assets/board.gif)
 
 ## Sobre
 
